@@ -4,6 +4,25 @@ moodle-availability_role
 Changes
 -------
 
+### v3.4-r1
+
+* 2017-12-11 - Check compatibility for Moodle 3.4, no functionality change.
+
+### v3.3-r2
+
+* 2017-12-08 - Changed text style for role to fit to other availability conditions.
+
+### v3.3-r1
+
+* 2017-12-04 - Fixed compatibility changes for Behat tests.
+* 2017-12-04 - Check compatibility for Moodle 3.3, no functionality change.
+* 2017-12-04 - Added Workaround to travis.yml for fixing Behat tests with TravisCI.
+* 2017-11-08 - Updated travis.yml to use newer node version for fixing TravisCI error.
+
+### v3.2-r5
+
+* 2017-05-30 - Improve Travis CI support
+
 ### v3.2-r4
 
 * 2017-05-29 - Add Travis CI support
